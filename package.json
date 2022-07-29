@@ -1,0 +1,21 @@
+{
+    "name": "Sudotheme",
+    "displayName": "SudoLive",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SudoTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SudoTheme-color-theme.json"
+            }
+        ]
+    }
+}
